@@ -1,5 +1,5 @@
 # getting-started
-#prove x VSStudio, git, etc... 
+prove x VSStudio, git, etc... 
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
